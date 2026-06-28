@@ -56,5 +56,5 @@
 ##  Results
 The model predicts the target variable using multiple input features and is evaluated using standard regression metrics to measure prediction accuracy.
 
-## 👨‍💻 Author
+## Author
 **Ravilla Charansai**
